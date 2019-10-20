@@ -1,2 +1,2 @@
 # SOP
-standar operating procedures
+standard operating procedures
