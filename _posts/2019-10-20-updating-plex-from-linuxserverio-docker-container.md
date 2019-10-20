@@ -7,10 +7,10 @@ categories: nginx ssl letsencrypt
 
 This is an SOP for updating a plex instance created from the linuxserver.io plex image.
 
-## Pre-requisites
+## 1. Pre-requisites
 This SOP assumes you have a docker file, docker-compose.yml, or a script with a docker run command ready to go. If this isn't the case, go do that.
 
-## Pull the latest version of the linuxserver.io plex instance
+## 2. Pull the latest version of the linuxserver.io plex instance
 ```
 docker pull linuxserver/plex
 ```
