@@ -2,7 +2,7 @@
 layout: post
 title:  "Manually renewing NGINX certbot wildcard certs"
 date:   2019-10-20 00:57:51 -0400
-categories: nginx certificates ssl certbox letsencrypt
+categories: nginx ssl letsencrypt
 ---
 
 This is an SOP for updating lets-encrypt wildcard certificates that have expired on Nginx.
